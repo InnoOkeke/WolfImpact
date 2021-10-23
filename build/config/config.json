@@ -10,7 +10,7 @@
   "SYMBOL": "WINFT",
   "MAX_SUPPLY": 5555,
   "WEI_COST": 20000000000000000000,
-  "DISPLAY_COST": 20,
+  "DISPLAY_COST": 10,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/wolf-impact-nft",
