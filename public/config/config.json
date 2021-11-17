@@ -1,16 +1,16 @@
 {
-  "CONTRACT_ADDRESS": "0x2a51A51755d4c571ecdbA4417dA624B57D6B5f9D",
-  "SCAN_LINK": "https://polygonscan.com/token/0x2a51A51755d4c571ecdbA4417dA624B57D6B5f9D",
+  "CONTRACT_ADDRESS": "0x6C6Ac4f9e714Bb480b86114328B2fbf3fE00422F",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x6c6ac4f9e714bb480b86114328b2fbf3fe00422f",
   "NETWORK": {
-    "NAME": "Polygon",
-    "SYMBOL": "Matic",
-    "ID": 137
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 3
   },
   "NFT_NAME": "Wolf Impact NFT",
   "SYMBOL": "WINFT",
   "MAX_SUPPLY": 5555,
-  "WEI_COST": 10000000000000000000,
-  "DISPLAY_COST": 10,
+  "WEI_COST": 00000000000000000000,
+  "DISPLAY_COST": 0,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/wolf-impact-nft",
