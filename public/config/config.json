@@ -1,10 +1,10 @@
 {
-  "CONTRACT_ADDRESS": "0x671dd7be25EaA23F1e05C341c200218854e4A300",
+  "CONTRACT_ADDRESS": "0x2a51A51755d4c571ecdbA4417dA624B57D6B5f9D",
   "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x6c6ac4f9e714bb480b86114328b2fbf3fe00422f",
   "NETWORK": {
     "NAME": "rinkeby",
-    "SYMBOL": "ETH",
-    "ID": 4
+    "SYMBOL": "Matic",
+    "ID": 137
   },
   "NFT_NAME": "Wolf Impact NFT",
   "SYMBOL": "WNFT",
