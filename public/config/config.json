@@ -1,10 +1,10 @@
 {
-  "CONTRACT_ADDRESS": "0x6C6Ac4f9e714Bb480b86114328B2fbf3fE00422F",
-  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x6c6ac4f9e714bb480b86114328b2fbf3fe00422f",
+  "CONTRACT_ADDRESS": "0xBD0e4DA59F0684AE300AFD955F040c6Ff6052D08",
+  "SCAN_LINK": "https://polygonscan.com/token/0xbd0e4da59f0684ae300afd955f040c6ff6052d08",
   "NETWORK": {
-    "NAME": "rinkeby",
+    "NAME": "Polygon",
     "SYMBOL": "Matic",
-    "ID": 4
+    "ID": 137
   },
   "NFT_NAME": "Wolf Impact NFT",
   "SYMBOL": "WNFT",
@@ -13,6 +13,6 @@
   "DISPLAY_COST": 0,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/wolf-impact-nft",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/",
   "SHOW_BACKGROUND": true
 }
