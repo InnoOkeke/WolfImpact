@@ -1,5 +1,5 @@
 {
-  "CONTRACT_ADDRESS": "0x6C6Ac4f9e714Bb480b86114328B2fbf3fE00422F",
+  "CONTRACT_ADDRESS": "0x671dd7be25EaA23F1e05C341c200218854e4A300",
   "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x6c6ac4f9e714bb480b86114328b2fbf3fe00422f",
   "NETWORK": {
     "NAME": "rinkeby",
@@ -9,7 +9,7 @@
   "NFT_NAME": "Wolf Impact NFT",
   "SYMBOL": "WNFT",
   "MAX_SUPPLY": 5555,
-  "WEI_COST": 0.000001,
+  "WEI_COST": 0,
   "DISPLAY_COST": 0,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
