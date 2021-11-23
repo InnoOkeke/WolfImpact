@@ -9,7 +9,7 @@
   "NFT_NAME": "Wolf Impact NFT",
   "SYMBOL": "WNFT",
   "MAX_SUPPLY": 5555,
-  "WEI_COST": 5000000000000000000,
+  "WEI_COST": 0,
   "DISPLAY_COST": 5,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
